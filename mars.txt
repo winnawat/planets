@@ -5,4 +5,6 @@ A rover just came by,
 what a cold night.
 
 A message from afar...
-Has been found.
+
+(Github) More information on github.
+(Local) Has been found.

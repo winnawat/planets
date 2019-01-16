@@ -5,3 +5,5 @@ A rover just came by,
 what a cold night.
 
 A message from afar...
+
+More information on github.

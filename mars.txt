@@ -3,3 +3,5 @@ A cold and sunny day on the red planet.
 Dusty conditions predicted.
 A rover just came by,
 what a cold night.
+
+A message from afar...

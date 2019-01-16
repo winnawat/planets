@@ -7,3 +7,13 @@ To resolve the conflict on Bash text editor:
 >> Add (local GitBash)
 >> Commit (local GitBash)
 >> Push (local GitBash)
+
+-------------------------
+Branching
+
+To change branch:
+>> git checkout master
+or
+>> git checkout dev_venus
+
+When pushing form a new brack for the first time, need to follow set-upstream instructions

@@ -1,0 +1,9 @@
+Conflict resolution
+
+If there is a conflict, Github will modify the txt file with conflict markers.
+
+To resolve the conflict on Bash text editor:
+>> remove those conflict markers, make the required text changes (local Gitbash)
+>> Add (local GitBash)
+>> Commit (local GitBash)
+>> Push (local GitBash)

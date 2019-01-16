@@ -1,4 +1,6 @@
-Conflict resolution
+Conflict resolution + push and pull
+
+"git pull origin master" to sync local copy to Github copy.
 
 If there is a conflict, Github will modify the txt file with conflict markers.
 

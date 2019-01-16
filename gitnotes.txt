@@ -9,7 +9,7 @@ To resolve the conflict on Bash text editor:
 >> Push (local GitBash)
 
 -------------------------
-Branching
+Branching: "git branch --list"
 
 To change branch:
 >> git checkout master
@@ -17,3 +17,5 @@ or
 >> git checkout dev_venus
 
 When pushing form a new brack for the first time, need to follow set-upstream instructions
+
+To merge, use "git merge dev_venus"

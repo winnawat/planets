@@ -21,3 +21,7 @@ or
 When pushing form a new brack for the first time, need to follow set-upstream instructions
 
 To merge, use "git merge dev_venus"
+
+-------------------------
+Sofrware Carpentry Version control with Git
+https://swcarpentry.github.io/git-novice/
